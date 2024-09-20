@@ -2,7 +2,7 @@
 
 Kelas Introduction to Programming / Week 4 / Session 5
 
-###Penjelasan:
+### Penjelasan:
 - **Scanner scan**: Digunakan untuk membaca input dari pengguna.
 - Definisi Variabel untuk menampung input dari user.
 - Meminta input Nama Barang dari user.
