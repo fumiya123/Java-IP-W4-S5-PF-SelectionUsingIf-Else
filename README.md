@@ -15,7 +15,7 @@ Kelas Introduction to Programming / Week 4 / Session 5
   - Setelah itu `total_harga - diskon` untuk mengurangi total harga yang harus dibayar karena diskon
 - Jika masuk `else` yang paling bawah maka tidak mendapat diskon.
 
-Sekian
+Sekian.
 
 Habib Azizul Haq  
 (2702488253)
