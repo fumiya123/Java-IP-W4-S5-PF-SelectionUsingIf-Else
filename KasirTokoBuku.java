@@ -35,7 +35,7 @@ public class KasirTokoBuku {
             diskon = total_harga * 10 / 100;
             total_harga = total_harga - diskon;
             System.out.println("Total Harga Setelah di Diskon: Rp" + total_harga);
-        } else if (total_harga <= 100000) {
+        } else {
             diskon = total_harga * 1;
             System.out.println("Total Harga Rp" + total_harga);
         }
